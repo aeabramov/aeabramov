@@ -1,4 +1,4 @@
-[![Header](https://github.com/aeabramov/aeabramov/blob/main/line.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="80%" src="https://github.com/aeabramov/aeabramov/blob/main/line.gif" /></a></p>
 
 ## Now ... I'm just learning a new profession as a Data Scientist
 
