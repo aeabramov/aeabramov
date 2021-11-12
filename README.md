@@ -5,7 +5,7 @@
 ### Projects:
 [![GitHub](https://img.shields.io/badge/-Project_0-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/guess_the_number)
 [![GitHub](https://img.shields.io/badge/-Project_1-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/hh_cleardata)
-https://c.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=097CDB)
