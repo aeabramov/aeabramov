@@ -11,7 +11,7 @@
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=097CDB)
 ![VS Code](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=F8C52C)
 
-### Follow Me:
+### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andrey_abramov)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/aeabramov)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/aeabramov)
