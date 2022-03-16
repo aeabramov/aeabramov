@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="80%" src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" /></a></p>
 
-## Now ... I'm just learning a new profession as a Data Scientist
+## Learning to be a Data Scientist 🤔
 
 ### Projects:
 [![GitHub](https://img.shields.io/badge/-Project_1-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/hh_cleardata)
