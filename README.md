@@ -3,8 +3,8 @@
 ## Now ... I'm just learning a new profession as a Data Scientist
 
 ### Projects:
-[![GitHub](https://img.shields.io/badge/-Project_0-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/guess_the_number)
 [![GitHub](https://img.shields.io/badge/-Project_1-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/hh_cleardata)
+[![Kaggle](https://img.shields.io/badge/-Project_0-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://www.kaggle.com/aeabramov/booking-reviews-pedict-aeabramov/)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
