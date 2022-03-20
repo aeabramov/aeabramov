@@ -14,4 +14,5 @@
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andrey_abramov)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/aeabramov)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/aeabramov)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/aeabramov)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle&logoColor=4F7DB3)](https://www.kaggle.com/aeabramov)
