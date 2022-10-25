@@ -2,7 +2,7 @@
 
 ## Studying to be a Data Scientist 🤔
 
-### Projects:
+### Educational Projects:
 [![GitHub](https://img.shields.io/badge/-Project_1-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/hh_cleardata)
 [![Kaggle](https://img.shields.io/badge/-Project_2-090909?style=for-the-badge&logo=kaggle&logoColor=097CDB)](https://www.kaggle.com/aeabramov/booking-reviews-pedict-aeabramov/)
 
