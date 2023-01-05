@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="80%" src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" /></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="60%" src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" /></a></p>
 
 ## Studying to be a Data Scientist 🤔
 
