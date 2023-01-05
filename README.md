@@ -12,7 +12,7 @@
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=097CDB)
-![VS Code](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=F8C52C)
+![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql&logoColor=097CDB)
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andrey_abramov)
