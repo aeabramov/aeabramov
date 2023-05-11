@@ -7,8 +7,8 @@
 
 ### Educational Projects:
 [![GitHub](https://img.shields.io/badge/-Analysis_of_data_on_applicants-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/hh_cleardata)
-[![GitHub](https://img.shields.io/badge/-Time_series-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/favorita)
 [![Kaggle](https://img.shields.io/badge/-Price's_predicion-090909?style=for-the-badge&logo=kaggle&logoColor=097CDB)](https://www.kaggle.com/aeabramov/booking-reviews-pedict-aeabramov/)
+[![GitHub](https://img.shields.io/badge/-Time_series-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/favorita)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
