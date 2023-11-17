@@ -1,9 +1,10 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="60%" src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" /></a></p>
 
-## Studying to be a Data Scientist 🤔
+## Junior ML-engineer 🤔
 
 ### Pet-Projects:
 [![GitHub](https://img.shields.io/badge/-Population's_prediction-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/population_prediction/)
+[![GitHub](https://img.shields.io/badge/-Recommendations-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/recommendations/)
 
 ### Educational Projects:
 [![GitHub](https://img.shields.io/badge/-Analysis_of_data_on_applicants-090909?style=for-the-badge&logo=github&logoColor=097CDB)](https://github.com/aeabramov/hh_cleardata)
@@ -14,6 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=097CDB)
 ![SQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=097CDB)
+![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker&logoColor=097CDB)
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andrey_abramov)
